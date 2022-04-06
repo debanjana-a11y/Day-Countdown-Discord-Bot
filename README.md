@@ -1,6 +1,5 @@
 # Day-Countdown-Discord-Bot
 Gives countdown days in ongoing month and remaining months in ongoing year
 
-https://autocode.com/app/debanjana/date-remaining/
 
-[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
+![Countdown Discord Bot](https://user-images.githubusercontent.com/89571066/161940979-65ab1791-e691-41f6-987b-5ad614279f5c.png)
