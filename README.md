@@ -28,3 +28,7 @@ Steps
 3. Get Day, Month and Year from in build functions of Date() and Fetch total days for that month
 4. Calculate remaining days in month and remaining months in year and send a message towards discord account which invoked "!rem"
 
+
+Feature to Add:
+1. Display total remaining days for current year
+2. Days to go between two given dates
