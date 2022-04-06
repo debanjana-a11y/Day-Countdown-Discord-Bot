@@ -1,0 +1,16 @@
+{
+  "name": "debanjana/date-remaining",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/discord/bot_mention.js": {
+      "name": "discord.bot_mention"
+    },
+    "functions/events/discord/message/create/prefix/rem.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "!rem"
+      }
+    }
+  }
+}
